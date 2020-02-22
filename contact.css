@@ -1,0 +1,126 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+*a{
+    text-decoration: none;
+}
+.header-area{
+    background: #e8ebf1;
+}
+.logo a img {
+	padding: 20px 0px;
+}
+.menu{}
+.menu ul{}
+.menu ul li{
+    list-style: none;
+    display: inline-block;
+}
+.menu ul li a {
+	text-decoration: none;
+	padding: 35px;
+	display: block;
+	color: black;
+	font-size: 16px;
+}
+.menu ul li a:hover{
+    border-top: 5px solid #2aacc8;
+}
+.contact-from {
+	background: #fff;
+}
+.heading h3 {
+	color: #000;
+	border-bottom: 2px solid gray;
+	padding-bottom: 45px;
+	margin-top: 30px;
+}
+.contact-from p {
+    color: #000;
+    margin-top: 20px;
+	margin-bottom: 20px;
+}
+.from p {
+	margin-bottom: -10px;
+	display: block;
+}
+.btn a {
+	text-decoration: none;
+}
+.btn a input {
+	padding: 7px 31px;
+	margin-left: -13px;
+	margin-top: 14px;
+    border-radius: 10px;
+    background: #78dee9;
+    text-decoration: none;
+	margin-bottom: 20px;
+	border: none;
+}
+.location {
+	margin-left: 100px;
+	margin-top: 29px;
+}
+.location h3, h4, h5 {
+	margin-bottom: 20px;
+}
+.location img {
+	margin-bottom: 20px;
+}
+.futter-area{
+    background: #e8ebf1;
+    padding-top: 20px;
+}
+.futter-area h3{
+    margin-bottom: 25px;
+}
+.futter-area p{
+    margin-bottom: 25px;
+    color: #757779;
+}
+.explorer{}
+.explorer-1 {
+	float: left;
+	margin-left: 50px;
+}
+.explorer-1 h3{
+
+}
+.explorer-1 ul{}
+.explorer-1 ul li{
+    list-style: none;
+}
+.explorer-1 ul li a{
+    text-decoration: none;
+    color: #757779;
+}
+.contact-us{
+    float: left;
+}
+.contact-icon{
+    float: left;
+}
+.contact-us h4 {
+	margin-bottom: 0px;
+}
+.icon-1 {
+	margin-top: 45px;
+}
+.icon {
+	float: left;
+	height: 40px;
+	width: 40px;
+	border: 2px solid gold;
+	border-radius: 50%;
+	margin-left: 25px;
+	margin-bottom: 20px;
+}
+.futter{
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.logo-1 a img {
+	padding: 10px;
+	margin-left: 90px;
+}
